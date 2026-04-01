@@ -4,9 +4,6 @@ namespace OOP_Projekt
     using System;
     using System.Collections.Generic;
 
-    using System;
-    using System.Collections.Generic;
-
     // Hanterar produkter, pengar och köp
     public class VendingMachine
     {
