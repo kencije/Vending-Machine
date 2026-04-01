@@ -2,8 +2,6 @@
 {
     using System;
 
-    using System;
-
     // Startpunkt för programmet och menyhantering
     class Program
     {
